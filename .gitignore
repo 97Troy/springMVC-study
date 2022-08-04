@@ -1,0 +1,9 @@
+# Project exclude paths
+/springmvc_01_quickstart/target/
+/springmvc_03_request_mapping/target/
+/springmvc_04_request_param/target/
+/springmvc_05_response/target/
+/springmvc_06_rest/target/
+/springmvc_07_rest_case/target/
+/springmvc_08_ssm/target/
+/springmvc_09_interceptor/target/
